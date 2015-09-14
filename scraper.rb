@@ -37,7 +37,7 @@ def scrape_list(url)
 
             data = {
                 name: name,
-                party: party,
+                party: curr_party,
                 source: url,
             }
 
