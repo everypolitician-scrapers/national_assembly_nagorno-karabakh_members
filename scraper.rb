@@ -3,9 +3,7 @@
 
 require 'scraperwiki'
 require 'nokogiri'
-require 'open-uri/cached'
-
-OpenURI::Cache.cache_path = '.cache'
+require 'scraped_page_archive/open-uri'
 
 class String
   def tidy
