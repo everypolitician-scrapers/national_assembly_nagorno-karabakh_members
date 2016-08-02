@@ -1,0 +1,41 @@
+---
+request:
+  method: get
+  uri: http://cecnkr.am/%D5%B6%D5%B8%D6%80%D5%A8%D5%B6%D5%BF%D5%AB%D6%80-%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6-%D5%AA%D5%B8%D5%B2%D5%B8%D5%BE%D5%AB-%D5%BA%D5%A1%D5%BF%D5%A3%D5%A1%D5%B4%D5%A1%D5%BE%D5%B8%D6%80%D5%B6/?lang=en
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - '*/*'
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Server:
+    - nginx
+    Date:
+    - Tue, 02 Aug 2016 14:54:31 GMT
+    Content-Type:
+    - text/html; charset=UTF-8
+    Transfer-Encoding:
+    - chunked
+    Connection:
+    - keep-alive
+    Set-Cookie:
+    - pdb-wp_session=88fc04256db7d54320ca5af3de1e086b%7C%7C1470151471%7C%7C1470151111;
+      expires=Tue, 02-Aug-2016 15:24:31 GMT; Max-Age=1800; path=/
+    - qtrans_cookie_test=qTranslate+Cookie+Test; path=/; domain=cecnkr.am
+    X-Pingback:
+    - http://cecnkr.am/xmlrpc.php
+    Link:
+    - <http://cecnkr.am/?p=3702>; rel=shortlink
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Tue, 02 Aug 2016 14:54:32 GMT
