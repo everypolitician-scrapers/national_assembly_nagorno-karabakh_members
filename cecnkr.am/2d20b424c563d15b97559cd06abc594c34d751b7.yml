@@ -20,14 +20,14 @@ response:
     Server:
     - nginx
     Date:
-    - Fri, 28 Oct 2016 23:51:53 GMT
+    - Sat, 29 Oct 2016 23:04:48 GMT
     Content-Type:
     - text/html; charset=UTF-8
     Connection:
     - keep-alive
     Set-Cookie:
-    - pdb-wp_session=17622a8403b85df02865392207be8a4e%7C%7C1477700512%7C%7C1477700152;
-      expires=Sat, 29-Oct-2016 00:21:52 GMT; Max-Age=1800; path=/
+    - pdb-wp_session=56018ad9a214b2bbcbda54d9a98326c4%7C%7C1477784088%7C%7C1477783728;
+      expires=Sat, 29-Oct-2016 23:34:48 GMT; Max-Age=1800; path=/
     - qtrans_cookie_test=qTranslate+Cookie+Test; path=/; domain=cecnkr.am
     X-Pingback:
     - http://cecnkr.am/xmlrpc.php
@@ -38,4 +38,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 28 Oct 2016 23:51:53 GMT
+recorded_at: Sat, 29 Oct 2016 23:04:48 GMT
